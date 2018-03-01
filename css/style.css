@@ -1,0 +1,147 @@
+.img-responsive{
+    width: 100% !important;
+}
+
+#photodairy{
+    margin-top: 60px;
+}
+.common_sub, .common_title, .common_para{
+     padding: 0px 20px;
+}
+
+.common_sub{
+    font-family: ubuntu;
+    font-size: 14px;
+    color:#B9B2A5;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.common_title{
+    font-family: playfair Display;
+    font-size: 30px;
+    color: #626262;
+    font-weight: 100;
+    
+}
+.common_para{
+    font-family: playfair Display;
+    font-size: 14px;
+    color: #626262;
+    font-weight: 100;
+    line-height: 25px;
+    
+}
+.comment{
+    margin: 60px 0px;
+}
+
+#newsletter {
+    
+    margin: 90px 0px;
+    background-color: #F0F0F0;
+    height:250px;
+}
+
+.newsletter_form h2{
+    margin-top: 80px;
+    font-family: playfair Display;
+    font-size: 30px;
+    color: #333333;
+    font-weight: 100;
+}
+
+.newsletter_form input{
+    border:none;
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    margin-top: 50px;
+    width: 355px;
+    font-family: playfair Display;
+    font-size: 14px;
+    color: #333333;
+    font-weight: 100;
+}
+.newsletter_form{
+    position: relative;
+}
+.newsletter_form button{
+    position: absolute;
+    background: transparent;
+    border: none;
+    top: 84px;
+    right: 386px;
+}
+
+#life_style2 {
+}
+.logo {
+    margin-top: 25px;
+}
+
+.custom-nav{
+    background-color: transparent !important;
+    border: none !important;
+    
+}
+.custom-nav ul li{
+    
+}
+.imgx{
+    margin-top: 80px;
+}
+
+.custom-nav ul li a{
+    font-size: 14px;
+    font-family: playfair Display;
+    font-weight: 100;
+    padding: 15px 30px;
+    padding: 25px 50px;
+    text-transform: uppercase;
+}
+.custom-nav ul li:last-child a{
+    padding-right: 0px !important;
+    
+}
+.custom-nav ul li a:hover{
+    color:#020202 !important;
+    transition: 0.5s;
+    
+}
+
+.image_part {
+    padding: 0px 20px;
+}
+
+.newsletter_form {
+}
+
+.form_inline {
+}
+.load_more{
+        margin: 90px 0px;
+
+}
+.load_more button{
+    font-family: playfair Display;
+    font-size: 25px;
+    color: #626262;
+    font-weight: 100;
+    padding: 15px 30px;
+    border: 1px solid #626262;
+    background-color: transparent;
+}
+footer{
+    background-color: #F0F0F0;
+    height: 50px;
+}
+.ok{
+    margin-top: 15px;
+}
+
+
+.tos ul li a, .social_media ul li a {
+    text-decoration: none;
+    color:#232323;
+    font-size: 14px;
+}
